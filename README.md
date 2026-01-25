@@ -16,7 +16,7 @@
 
 <a href="https://cash500.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://img.shields.io/badge/🎣_ИГРАТЬ_В_ICE_FISHING_С_ПРОМОКОДОМ_YOU2-ff007f?style=for-the-badge&labelColor=111827"
+    src="https://img.shields.io/badge/🎣_ИГРАТЬ_В_ICE_FISHING-ff007f?style=for-the-badge&labelColor=111827"
     alt="Играть в Ice Fishing (Айс Фишинг) с промокодом YOU2"
     width="520"
     style="display:block; margin:24px auto;"
